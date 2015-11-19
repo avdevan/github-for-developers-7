@@ -4,3 +4,4 @@
 - From: **Virginia Beach, VA**
 - Favorite Food: **Cheese**
 - Hobby: **Crochet**
+- Favorite Color: **Pink**
