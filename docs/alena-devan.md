@@ -5,3 +5,4 @@
 - Favorite Food: **Cheese**
 - Hobby: **Crochet**
 - Favorite Color: **Pink**
+- Favorite Book: **Harry Potter**
